@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleActivitiesSample</string>
+    <string name="open_receiver_activity">Open new activity</string>
+    <string name="show_message">Show toast</string>
+</resources>
